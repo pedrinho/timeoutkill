@@ -7,6 +7,7 @@ Just put this script to run on crontab.
 
 ## Usage
 ./timeoutkill timeout program
+
 Where 'timeout' is the ammount of time in seconds that computer needs to be idle and 'program' is the name of the program that will be killed.
 
 ## Credits
